@@ -306,93 +306,93 @@ You can also choose to re-use another VCN.
 
 ### 14. Debug and other settings
 
-- Debug
+- **Debug**
 
 	***Enabled***
 
-- Active
+- **Active**
 
 	***Enabled***
 
-- allowed_grants
+- **allowed_grants**
 
 	``authorization_code``,
 	``client_credentials``
 
 
-- client_ip_checking
+- **client_ip_checking**
 
 	``anywhere``
 
-- client_type
+- **client_type**
 
 	``confidential``
 
-- csr_access
+- **csr_access**
 
 	``none``
 
-- existing_domain_ocid
+- **existing_domain_ocid**
 
 	ocid1.domain.oc1..aaaaaaaanmildwwcqkjeagqpbm6eigyu6o57b6wifdbfnz2a3pygirrbc2gq
 
-- force_delete
+- **force_delete**
 
 	***Unselected***
 
-- influxdb
+- **influxdb**
 
 	***Enabled***
 
-- is_oauth_client
+- **is_oauth_client**
 
 	***Enabled***
 
-- ood_display_name
+- **ood_display_name**
 
-		``od_app``
+	``od_app``
 
-- ood_schemas
+- **ood_schemas**
 
 	``urn:ietf:params:scim:schemas:oracle:idcs:App``
 
 
-- ood_user_email
+- **ood_user_email**
 
 	Input your email.
 
-- ood_user_password
+- **ood_user_password**
 
 	Choose a password.
 
-- ood_username		
+- **ood_username**		
 
 	``ood_user``
 
-- schemas
+- **schemas**
 
 	``urn:ietf:params:scim:schemas:oracle:idcs:Settings``
 
-- setting_id
+- **setting_id**
 
 	``Settings``
 
-- show_in_my_apps
+- **show_in_my_apps**
 
 	***Enabled***
 
-- timezone
+- **timezone**
 
 	Whatever you prefer. You can leave as default.
 
 
-- use_existing_idcs
+- **use_existing_idcs**
 
 	Choose whether to use an existing IDCS domain (true) or create a new one (false).
 
 	In this lab we will create a new one.
 
-- user_schemas
+- **user_schemas**
 
 	``urn:ietf:params:scim:schemas:core:2.0:User``
 
